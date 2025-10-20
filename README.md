@@ -25,7 +25,7 @@ I design interfaces, build the frontend, and develop the backend — all of the 
 
 ---
 
-## GitHub Stats (Dark Mode)
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yosuasetian&show_icons=true&count_private=true&theme=dark&border_radius=10" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yosuasetian&theme=dark&border_radius=10" width="48%" alt="GitHub Streak" />
